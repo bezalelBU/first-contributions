@@ -30,6 +30,7 @@
 - [Jason Thulen]
 - saurav
 - Pranjal Srivastava
+- [Katlyn Quinn](https://github.com/bezalelBU)
   [Justin Vocke](https://github.com/justin-vocke)
 - [Cody Deatherage](https://github.com/codydeatherage)
 - [Gabriel Santana](https://github.com/gabrielsanttana)
